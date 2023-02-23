@@ -1,4 +1,5 @@
 # Java
 
 ### Description
-This repository contains all Java projects created by Chiara Altobelli.
+NOTE: In progress, to be updated.
+<br>This repository contains all Java projects created by Chiara Altobelli.
